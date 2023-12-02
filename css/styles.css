@@ -551,4 +551,16 @@ a {
     background: rgba(46, 47, 66, 0.40);
 }
 
-/* ================ BACKDROP STYLES =============== */
+/* ================ MODAL WINDOW STYLES =============== */
+
+.modal-window {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 408px;
+    height: 584px;
+    border-radius: 4px;
+    background: #FCFCFC;
+
+}
