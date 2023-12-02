@@ -538,3 +538,17 @@ a {
 .logo-span-footer {
     color: #F4F4FD;
 }
+
+/* ================ BACKDROP STYLES =============== */
+
+.backdrop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 99999;
+    width: 100%;
+    height: 100%;
+    background: rgba(46, 47, 66, 0.40);
+}
+
+/* ================ BACKDROP STYLES =============== */
